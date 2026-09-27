@@ -11,5 +11,8 @@ NestMatch AI is a full-stack roommate matching platform built using the MERN Sta
 * 🎨 Responsive UI built with Tailwind CSS
 * 🌐 RESTful API Integration
 * 🗄️ MongoDB Database Management
-
+  
+---
+## 📸 Screenshots
+https://github.com/pratikshreyanshu/NestMatch-AI/blob/main/docs/screenshots/home.png
 
