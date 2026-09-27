@@ -14,5 +14,5 @@ NestMatch AI is a full-stack roommate matching platform built using the MERN Sta
   
 ---
 ## 📸 Screenshots
-https://github.com/pratikshreyanshu/NestMatch-AI/blob/main/docs/screenshots/home.png
+
 
